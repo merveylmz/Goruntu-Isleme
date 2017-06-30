@@ -1,2 +1,2 @@
 # Goruntu Isleme
-![Settings Window](https://github.com/merveylmz/Goruntu-Isleme/blob/master/ScreenShots/Ornek.png)
+![Matlab ScreenShot](https://github.com/merveylmz/ScreenShots/blob/master/Matlab/%C3%96rnek.png)
